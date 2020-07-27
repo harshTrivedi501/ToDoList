@@ -1,5 +1,7 @@
 # ToDoList
 
+It a Todo List manager app which provides CRUD functionality into the SQLite Database. This help is very helpful when it comes to manage your daily work.
+
 ![Screenshot_20200727-190156_MyTodoList](https://user-images.githubusercontent.com/64466225/88548625-0002fe00-d03d-11ea-9f6d-48ad03ca2b47.jpg)
 ![Screenshot_20200727-190226_MyTodoList](https://user-images.githubusercontent.com/64466225/88548670-0abd9300-d03d-11ea-8749-03fcc47259fe.jpg)
 ![Screenshot_20200727-190231_MyTodoList](https://user-images.githubusercontent.com/64466225/88548677-0c875680-d03d-11ea-9d7d-b4ea59cc61ad.jpg)
