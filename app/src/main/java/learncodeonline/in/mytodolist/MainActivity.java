@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //added by harsh
+
         myDB = new DatabaseHelper(this);
         listView = findViewById(R.id.listview);
         add_task = findViewById(R.id.add_task);
