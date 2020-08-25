@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //added by harsh
+        //added by vaibhav
 
         myDB = new DatabaseHelper(this);
         listView = findViewById(R.id.listview);
