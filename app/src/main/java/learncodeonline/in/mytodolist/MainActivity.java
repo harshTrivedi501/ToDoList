@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     DatabaseHelper myDB;
     ArrayAdapter<String> arrayAdapter;
 
-    //added by harsh
+    //added by vaibhav
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
